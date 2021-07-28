@@ -1,4 +1,5 @@
 name: "alicia-personal-website"
+output_dir: "."
 navbar:
   title: "Alicia Thilani Singham Goodwin"
   left:
