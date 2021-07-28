@@ -1,0 +1,25 @@
+---
+title: "Blog Posts"
+---
+
+<br><br>
+
+### My week at Occupy City Hall (summer 2020)
+
+![](photos/city_hall.jpeg){width=30%}
+
+Blog Post: [My week at Occupy City Hall to defund the NYPD](http://txti.es/alicia-uta0a723ksqbscaq/images)
+
+<br>
+
+### Working in Togo as a data and research manager for Integrate Health
+
+![](photos/togo_blog.JPG){width=60%}
+
+Blog: [Tales of Togo](https://talesoftogo.wordpress.com/)
+
+<br>
+
+### Programming at the Recurse Center
+
+Blog: [Alicia Recurses](https://aliciarecurses.wordpress.com/)

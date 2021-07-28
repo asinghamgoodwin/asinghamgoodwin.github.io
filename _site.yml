@@ -1,0 +1,26 @@
+name: "alicia-personal-website"
+navbar:
+  title: "Alicia Thilani Singham Goodwin"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Blog Posts"
+      href: blog-posts.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Projects"
+      href: projects.html
+    - text: "CV"
+      href: cv.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fab fa-twitter fa-lg
+      href: http://twitter.com/AliciaThilani
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?view_op=list_works&hl=en&user=svgB58UAAAAJ
+    - icon: fab fa-github fa-lg
+      href: http://github.com/asinghamgoodwin/
+output:
+  html_document:
+    theme: paper
