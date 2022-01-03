@@ -10,7 +10,7 @@ title: "CV"
 
 * Epidemiology Department (PI: Kara Rudolph): Work focused on optimizing medication dosage using machine learning techniques, to reduce the risk of relapse in clinical trials of medication-assisted opioid treatment programs. (Data cleaning, management, and analysis, programming in R)
 
-* [Credible Messenger Justice Center](https://cmjcenter.org/) (contract position, under Ted Alcorn): Co-writing an impact report on credible messengers and related community violence prevention programs around the U.S.
+* [Credible Messenger Justice Center](https://cmjcenter.org/) (contract position, under Ted Alcorn): Co-wrote an impact report on credible messengers and related community violence prevention programs around the U.S.
 
 * Keyes Lab (PI: Kerry Keyes): Researched the associations between community attachments and teen substance use, using the Monitoring The Future data set. (Programming in R and SAS.)
 
@@ -29,7 +29,7 @@ title: "CV"
 
 * [Etsy](https://etsy.com): Software Engineer (internal tools team)
 
-* [Kristin4Harlem Campaign](https://kristinforharlem.com): Policy Advisor
+* [Kristin4Harlem Campaign & Transition team](https://kristinforharlem.com): Policy Advisor
 
 <br>
 
