@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Blog Posts"
-      href: blog-posts.html
+    - text: "Writing"
+      href: writing.html
     - text: "Publications"
       href: publications.html
     - text: "Projects"

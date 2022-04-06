@@ -25,6 +25,8 @@ title: "CV"
 
 ### Other work experience 
 
+* [VOCAL-NY](https://vocal-ny.org): Drug Policy Campaign Coordinator (current)
+
 * [Recurse Center](https://recurse.com): Facilitator at an educational retreat for computer programmers
 
 * [Etsy](https://etsy.com): Software Engineer (internal tools team)
