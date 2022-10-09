@@ -4,38 +4,35 @@ title: "CV"
 
 <br><br>
 
-### Public Health Experience
 
-**Academic Research at Columbia University (New York, NY)**
-
-* Epidemiology Department (PI: Kara Rudolph): Work focused on optimizing medication dosage using machine learning techniques, to reduce the risk of relapse in clinical trials of medication-assisted opioid treatment programs. (Data cleaning, management, and analysis, programming in R)
-
-* [Credible Messenger Justice Center](https://cmjcenter.org/) (contract position, under Ted Alcorn): Co-wrote an impact report on credible messengers and related community violence prevention programs around the U.S.
-
-* Keyes Lab (PI: Kerry Keyes): Researched the associations between community attachments and teen substance use, using the Monitoring The Future data set. (Programming in R and SAS.)
-
-* [Spatial Epidemiology Lab](https://www.spatialepilab.org/) (PI: Dustin Duncan): Conducted qualitative research about COVID-19’s impact on sex workers, along with research assistant tasks (literature reviews, survey design, grant-writing, manuscript-drafting) for other projects.
-
-**Research and M&E at [Integrate Health](https://integratehealth.org/), an HIV and maternal & child health provider (Kara, Togo)**
-
-* Research Manager: Managed two yearly 2000-household surveys to evaluate the impact of a pilot community health program.
-* Health Systems Strengthening Fellow: Assisted in the design and creation of a new medical records database. Taught computer literacy and software training sessions to clinic staf, and implemented a GIS patient-mapping project for IH’s community health program.
-
+## Work experience 
 <br>
 
-### Other work experience 
+### Politics & Advocacy
 
-* [VOCAL-NY](https://vocal-ny.org): Drug Policy Campaign Coordinator (current)
+* [VOCAL-NY](https://vocal-ny.org): Drug Policy Campaign Coordinator
+
+* [Kristin4Harlem Campaign & Transition team](https://kristinforharlem.com): Policy Advisor
+
+
+### Public Health
+
+* Academic Research at Columbia University: Quantitative & qualitative research focused on COVID-19, sex work, substance use, and violence prevention.
+
+* Research and M&E at [Integrate Health](https://integratehealth.org/), an HIV and maternal & child health care provider (Kara, Togo)
+
+
+### Programming+
 
 * [Recurse Center](https://recurse.com): Facilitator at an educational retreat for computer programmers
 
 * [Etsy](https://etsy.com): Software Engineer (internal tools team)
 
-* [Kristin4Harlem Campaign & Transition team](https://kristinforharlem.com): Policy Advisor
+
 
 <br>
 
-### Education
+## Education
 
 **Columbia Mailman School of Public Health**
 
@@ -47,7 +44,7 @@ BS in Mathematics and Women’s and Gender Studies
 
 <br>
 
-### Technical Skills
+## Technical Skills
 
 *Skills:* Data analysis, community-building and community management
 

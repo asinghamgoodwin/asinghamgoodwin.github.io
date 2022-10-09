@@ -1,8 +1,10 @@
 ---
 title: "Alicia Thilani Singham Goodwin"
 ---
+<br>
 
-![](photos/headshot.png){width=30%} 
+![](photos/headshot2.jpg){width=30%} 
+<br><br>
 
 # Hello! I'm Alicia.
 
@@ -10,8 +12,8 @@ I am an activist and public health researcher based in West Harlem, NYC.
 
 My health research interests include gun violence prevention, alternatives to policing, gender-based violence, substance use, and the ways in which structural forces like racism and sexism impact our health.
 
-My activisim is focused around housing, enviornmental justice, and public transit, and I also love [crafting](/projects.html) and [programming](https://recurse.com)!
+My organizing largely takes place within [NYC DSA](https://www.socialists.nyc/) and is focused around abolition, housing, and public transit. I also love [crafting](/projects.html) and [programming](https://recurse.com)!
 
-I currently work as a Drug Policy Campaign Coordinator at [VOCAL-NY](https://vocal-ny.org).
+<br>
 
 <script async defer src="https://www.recurse-scout.com/loader.js?t=6ea765e6242c4dcd2d8e4ca7394934f1"></script>
